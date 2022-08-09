@@ -1,10 +1,10 @@
-Package: com.cokepokes.appstoreplusplus11
-Version: 0.9.5
+Package: com.alshlsh.appstoreplusplus
+Version: 0.9.18
 Architecture: iphoneos-arm
-Maintainer: x7mii	
+Maintainer: alshlsh	
 Depends:  firmware (>= 11.0), mobilesubstrate 	
 Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
+Filename: debs/com.alshlsh.appstoreplusplus_0.9.18_iphoneos-arm.deb	
 Size: 1670732	
 MD5sum: e6e914ec0c7e9938241241a96d5c4821	
 SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674	
