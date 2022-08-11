@@ -9,6 +9,6 @@ Size: 3706724
 MD5sum: a842ea1120891c11710c6b22012d1e1e	
 SHA1: 36fc296d0d732fcd9e6704e9dd3ed67f9ff4a474	
 SHA256: fe4bfe88eb41a8d8ff7403099787752eafdcc9b1fd1d1c087e28900d497f0dec	
-Section: Tweaks	Section: Tweaks
+Section: Tweaks
 Depiction: https://alshlsh.github.io/sattam/
 Name: appstore++
